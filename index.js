@@ -29,7 +29,6 @@ const makeReturnCache = (moduleDirectory = 'cache-directory', rootDirectory = __
     const existingStore = fileExists && JSON.parse(await loadString(file));
 
     if (existingStore.cacheKey === cacheKey) {
-      console.log('from cache');
       return existingStore.result;
     }
 
