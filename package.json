@@ -1,6 +1,6 @@
 {
   "name": "return-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node.js module that takes an async function/promise and returns data from existing file cache",
   "main": "index.js",
   "scripts": {
