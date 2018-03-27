@@ -1,0 +1,24 @@
+{
+  "name": "return-cache",
+  "version": "0.0.1",
+  "description": "node.js module that takes an async function/promise and returns data from existing file cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/return-cache/return-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "async",
+    "promise"
+  ],
+  "author": "Arafat Husayn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/return-cache/return-cache/issues"
+  },
+  "homepage": "https://github.com/return-cache/return-cache#readme"
+}
